@@ -13,7 +13,7 @@ Link page:
 ## ![Screenshot](http://res.cloudinary.com/duholcmsa/image/upload/v1513121225/swapi_etokcw.png)
 
 ### Run the react application in your computer:
-All dependencies have to be be installed:
+All dependencies have to be installed:
 ```
 $ npm install
 ```
